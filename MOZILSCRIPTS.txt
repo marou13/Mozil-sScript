@@ -1,3 +1,0 @@
-Use Only On Delta Executor!
-Script:
-loadstring(game:HttpGet("https://paste.ee/r/ZM6juHm5"))()
